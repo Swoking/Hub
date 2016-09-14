@@ -1,4 +1,4 @@
-package fr.dinnerwolph.hub.listener.player;
+package fr.scopegames.hub.listener.player;
 
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;

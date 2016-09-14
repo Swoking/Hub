@@ -1,6 +1,6 @@
-package fr.dinnerwolph.hub.listener.player;
+package fr.scopegames.hub.listener.player;
 
-import fr.dinnerwolph.scopegamesapi.player.ScopePlayer;
+import fr.scopegames.scopegamesapi.player.ScopePlayer;
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;

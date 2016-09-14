@@ -1,10 +1,10 @@
-package fr.dinnerwolph.hub.mount;
+package fr.scopegames.hub.mount;
 
-import fr.dinnerwolph.hub.customentities.RideableChicken;
-import fr.dinnerwolph.hub.customentities.RideableCow;
-import fr.dinnerwolph.hub.customentities.RideableCreeper;
-import fr.dinnerwolph.hub.customentities.RideableSheep;
-import fr.dinnerwolph.hub.customentities.RideableSpider;
+import fr.scopegames.hub.customentities.RideableChicken;
+import fr.scopegames.hub.customentities.RideableCow;
+import fr.scopegames.hub.customentities.RideableCreeper;
+import fr.scopegames.hub.customentities.RideableSheep;
+import fr.scopegames.hub.customentities.RideableSpider;
 import java.util.List;
 import net.minecraft.server.v1_9_R2.EntityAgeable;
 import net.minecraft.server.v1_9_R2.EntityLiving;
